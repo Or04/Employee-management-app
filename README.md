@@ -1,7 +1,7 @@
 # Employee-management-app
 
 
-clone the code and update the ngrok forwarding url, then:
+Clone the code and update the ngrok forwarding url, then:
 
 1.cd server
 
@@ -17,6 +17,6 @@ clone the code and update the ngrok forwarding url, then:
 
 
 
-*** ngrok and Expo needed: please add the ngrok forwarding url (Referred to localhost: 3000) in all of the screens files Before running.
+*** ngrok and Expo needed: please add the ngrok forwarding URL(Referred to localhost: 3000) in all of the screens files Before running.
 
 https://ngrok.com/
