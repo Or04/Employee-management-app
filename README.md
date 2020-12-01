@@ -1,6 +1,6 @@
 # Employee-management-app
 
-*** ngrok and Expo needed: please add the ngrok forwarding url (Referred to Local Host 3000) in all of the screens files Before running.
+*** ngrok and Expo needed: please add the ngrok forwarding url (Referred to localhost: 3000) in all of the screens files Before running.
 
 https://ngrok.com/
 
