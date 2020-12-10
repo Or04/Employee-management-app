@@ -6,7 +6,7 @@ require('./Employee');
 
 app.use(bodyParser.json());
 const Employee = mongoose.model('employee');
-const mongoUri = "mongodb://dbdb:or08121992@ds257668.mlab.com:57668/or";// Add your mongodb address here
+const mongoUri = / Add your mongodb address here
 mongoose.connect(process.env.MONGODB_URI || mongoUri, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
